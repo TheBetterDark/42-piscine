@@ -1,0 +1,17 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.out
+*.exe
+
+# Temporary files
+*.swp
+
+# Test files
+t_*
+
+# Code editor files
+.vscode

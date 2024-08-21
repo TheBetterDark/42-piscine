@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+*.a
+*.so
+
+# Executables files
+*.out
+*.exe
+
+# Temp files
+*.swp
+.vscode
+build
